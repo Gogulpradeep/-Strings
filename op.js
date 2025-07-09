@@ -6,3 +6,7 @@
 
  let upper = " i am learning javascript";
  console.log(upper.toUpperCase());
+
+
+ let  leng = "12345abc";
+ console.log(leng.length);
