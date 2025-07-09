@@ -17,5 +17,10 @@ console.log(ind.indexOf("a"));
 let love = "l love coding";
 console.log( love.replace("coding","playing"));
 
+let check = "devloper";
+console.log(check.includes("dev"));
+
+
+
 
 
