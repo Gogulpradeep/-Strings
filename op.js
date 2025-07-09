@@ -4,4 +4,5 @@
  let fullname = "gogul" +"pradeep"+"murthi";
  console.log(fullname);
 
- 
+ let upper = " i am learning javascript";
+ console.log(upper.toUpperCase());
